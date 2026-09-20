@@ -36,6 +36,6 @@ Instalar dependencias con:
 
 pip install -r requirements.txt
 
-## Autoras
+## Autores
 
 Bianca Soto Acosta y Martina Tarquini.
